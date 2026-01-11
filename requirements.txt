@@ -1,0 +1,6 @@
+langgraph
+langchain-openai
+tavily-python
+arxiv
+fal-client
+python-dotenv
